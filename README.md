@@ -1,3 +1,13 @@
+### NOTE
+This is an exact replica of the original bootcards repo - with an addendum of some the `glyphicons-halflings-*` fonts added. 
+
+If using through bower:
+
+```
+"bootcards": "https://github.com/romant/bootcards.git#master"
+```
+
+
 Bootcards: A cards-based UI framework with dual-pane capability for mobile and desktop, built on top of Bootstrap
 =========
 
